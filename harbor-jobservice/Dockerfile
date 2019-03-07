@@ -1,1 +1,1 @@
-FROM vmwareharbor-jobservicev1.5.0
+FROM goharbor/harbor-jobservice:v1.7.4
